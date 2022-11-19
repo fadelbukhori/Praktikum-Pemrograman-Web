@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    background-color: rgb(232, 25, 125);
+    font-size: 20px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.border1{
+    padding: 10px;
+    background-color: rgb(212, 12, 255);
+    color: white;
+    border-radius: 3px;
+    margin-top: 10px;
+    border-color: orangered;
+}
+
+.border2{
+    padding: 10px;
+    background-color: rgb(212, 127, 255);
+    color: white;
+    border-radius: 3px;
+    margin-top: 10px;
+    border-color: orangered;
+}
+
+.btn{
+    padding: 10px;
+    background-color: rgb(212, 127, 255);
+    color: black;
+    border-radius: 3px;
+    margin-top: 10px;
+    border-color: orangered;
+}
